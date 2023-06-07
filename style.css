@@ -1,0 +1,14 @@
+#cabecalho{
+    background-color: rgb(233, 220, 51);
+    color: white;
+}
+.parallax-inner{
+    text-align: center;
+}
+p{
+    text-align: justify;
+    font-size: 25px;
+}
+#video{
+    text-align: center;
+}
